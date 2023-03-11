@@ -1,0 +1,22 @@
+{
+  "name": "com.iedsoftworks.urpshaderlib",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "displayName": "URP Shader Library",
+  "description": "Yet another URP Shader library",
+  "license": "MIT",
+  "author": {
+    "name": "iedSoftworks",
+    "email": "michel.fedde@gmail.com",
+    "url": "https://www.iedsoftworks.com"
+  },
+  "hideInEditor": true,
+  "keywords": [
+    "URP",
+    "Shaders",
+    "Materials"
+  ],
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "12.1.10"
+  }
+}
