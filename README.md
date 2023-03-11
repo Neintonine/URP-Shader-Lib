@@ -7,6 +7,7 @@ All CgInc files are also available as Shader Subgraph.
 #### CGIncs
 - Checkerboard
 - Manhattan Voronoi
+- Hexagon
 
 CGIncs may also work in other render pipelines. (haven't and won't check)
 
