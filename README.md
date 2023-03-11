@@ -8,6 +8,7 @@ All CgInc files are also available as Shader Subgraph.
 - Checkerboard
 - Manhattan Voronoi
 - Hexagon
+- MapRange (for shader code, just include "Common.cginc")
 
 CGIncs may also work in other render pipelines. (haven't and won't check)
 
