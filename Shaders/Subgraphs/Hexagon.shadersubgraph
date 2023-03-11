@@ -309,7 +309,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "3c3c54d0e9f04a6dbfc41df01d3df021",
     "m_Id": 0,
-    "m_DisplayName": "Vector2",
+    "m_DisplayName": "UV",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -353,10 +353,10 @@
     "m_Guid": {
         "m_GuidSerialized": "90c495c4-e099-40ad-803e-9b2c2f8c8a81"
     },
-    "m_Name": "Vector2",
+    "m_Name": "UV",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Vector2",
-    "m_DefaultReferenceName": "_Vector2",
+    "m_RefNameGeneratedByDisplayName": "UV",
+    "m_DefaultReferenceName": "_UV",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
