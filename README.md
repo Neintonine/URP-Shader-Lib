@@ -17,3 +17,4 @@ CGIncs may also work in other render pipelines. (haven't and won't check)
 - Weapon Shader
 - Outline pass
 - Emission
+- Metal (requires [Noisy-Nodes](https://github.com/JimmyCushnie/Noisy-Nodes))
